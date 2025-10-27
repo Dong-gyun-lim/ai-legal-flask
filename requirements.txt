@@ -1,3 +1,6 @@
-flask==3.0.0
-flask-cors==4.0.0
-python-dotenv==1.0.1
+Flask==3.0.3
+requests==2.32.3
+requests-html==0.10.0
+beautifulsoup4==4.12.3
+lxml==5.2.2
+lxml_html_clean
